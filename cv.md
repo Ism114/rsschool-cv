@@ -5,7 +5,8 @@
 * E-mail: giz-renat@yandex.ru
 * Skype: giz-renat_1
 
-2. I would like to work as a Frontend developer and improve into a good programmer. I want to work in a team of highly professional developers and create high-quality and useful software products. My goal is to successfully complete the course and get a job at EPAM Junior developer. To get the job of my dreams, I am ready to work hard and diligently.
+2. I dreamed of becoming an engineer-inventor as a child. I want to become a programmer and fulfill my childhood dream. 
+I would like to work as a Frontend developer and improve into a good programmer. I want to work in a team of highly professional developers and create high-quality and useful software products. My goal is to successfully complete the course and get a job at EPAM Junior developer. To get the job of my dreams, I am ready to work hard and diligently.
 
 3. Scills:
 * HTML, CSS, Javascript, Git
